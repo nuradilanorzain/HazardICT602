@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hazard Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="infofikri">Hi, my name is Fikri Nazeef Bin Jasni. I live in Klang, Selangor. I have completed my Diploma in Programming
+    at Polytechnic Sultan Mizan Zainal Abidin, Terengganu. Currently pursuing my studies at UiTM Arau. A person who love to plays
+    Futsal and Extreme Sports ! Hit me up at fikrinazeef14@gmail.com Thank You and Stay Safe ! </string>
+
+    <string name="infotaqim">Hi, my name is Abdul Muntaqim Bin Mohd Muhayeddin</string>
+
+    <string name="infobish">Hi, my name is Bishrun Bin Abdullah </string>
+
+    <string name="infoaqid">Hi, my name is Akma Al Aqid </string>
+
+    <string name="infohaikal">Hi, my name is Haikal.  </string>
+
+</resources>
