@@ -50,17 +50,9 @@ public class ProfileFragment extends Fragment implements  AdapterView.OnItemClic
         popularRecycler = rootView.findViewById(R.id.popular_recycler);
 
         setPopularRecycler(popularFoodList);
-        ImageView url = (ImageView) rootView.findViewById(R.id.github);
 
 
-        url.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                URL("https://github.com/fikrinazeef/projectict602latest");
-            }
-        });
-
-        return rootView;
+       return rootView;
     }
 
     private void setPopularRecycler(List<PopularFood> popularFoodList) {
